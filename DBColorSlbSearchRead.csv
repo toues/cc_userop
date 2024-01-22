@@ -1,0 +1,3 @@
+slb_no,slb_chno,slb_aino,slb_stat,slb_col_cnt,slb_zkai_dte,slb_ksh,slb_typ,slb_uksk,slb_wei,slb_lngth,slb_wdth,slb_thkns,host_send,host_wrt_dte,host_wrt_tme,sys_wrt_dte,sys_wrt_tme,fail_host_send,fail_host_wrt_dte,fail_host_wrt_tme,fail_sys_wrt_dte,fail_sys_wrt_tme,bAPScanInput,bAPPdfInput,bAPFailScanInput,bAPFailPdfInput,fail_dir_sys_wrt_dte,fail_res_cmp_flg,fail_res_sys_wrt_dte,fail_res_host_send,fail_res_host_wrt_dte,fail_res_host_wrt_tme
+42613035,42613,35,0,01,20080505,N304AM,ABC,ABC,,,,,1,20080529,141500,20080529,,,,,,,,,,,,,,,,
+123451235,12345,1235,0,01,20080505,N304AM,ABC,ABC,,,,,,,,20080506,,,,,20080507,201010,,,,,20080509,,,,,
